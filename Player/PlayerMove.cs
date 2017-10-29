@@ -46,6 +46,9 @@ public class PlayerMove
 
         if (horizontalAxis != 0 || verticalAxis != 0)
         {
+            if (spookyAutoDetect.targetLine.Count == 0)
+                spooky.RotateTransform(horizontalAxis, verticalAxis);
+
             MovePosition(new Vector3(horizontalAxis, 0, verticalAxis));
         }
         else isMoving = false;
