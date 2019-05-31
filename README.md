@@ -10,3 +10,8 @@ but the base functionality and logic for each one is present. The game SpookyCro
 development.
 
 Link to Gameplay video: https://www.youtube.com/watch?v=CXM3Wok5x0Q&feature=youtu.be
+
+Repository links:
+
+Alone in Space: https://github.com/mono26/GGJ2018-2
+Spooky Crow: https://github.com/mono26/Spooky
