@@ -13,5 +13,5 @@ Link to Gameplay video: https://www.youtube.com/watch?v=CXM3Wok5x0Q&feature=yout
 
 Repository links:
 
-Alone in Space: https://github.com/mono26/GGJ2018-2
-Spooky Crow: https://github.com/mono26/Spooky
+- Alone in Space: https://github.com/mono26/GGJ2018-2
+- Spooky Crow: https://github.com/mono26/Spooky
